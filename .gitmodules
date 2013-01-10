@@ -1,0 +1,3 @@
+[submodule "src/ddp_client/node-ddp-client"]
+	path = src/ddp_client/node-ddp-client
+	url = git@github.com:EventedMind/node-ddp-client.git
